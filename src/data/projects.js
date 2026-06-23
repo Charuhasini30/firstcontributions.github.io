@@ -1458,4 +1458,11 @@ export const projectList = [
     description: "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy.",
     tags: ["Python", "Automation", "Configuration Management"],
   },
+  {
+  name: "JupyterLab",
+  imageSrc: "https://avatars.githubusercontent.com/u/7388996?s=200&v=4",
+  projectLink: "https://github.com/jupyterlab/jupyterlab",
+  description: "JupyterLab is the next-generation web-based user interface for Project Jupyter.",
+  tags: ["Python", "Jupyter", "Data Science", "Machine Learning"],
+  },
 ];
