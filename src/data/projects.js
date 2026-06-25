@@ -1313,13 +1313,13 @@ export const projectList = [
     tags: ["Scala", "Haskell"],
   },
   {
-    name: "Servo",
-    imageSrc: "https://avatars.githubusercontent.com/u/2566135?s=200&v=4",
-    projectLink: "https://github.com/digital-asset/daml/contribute",
-    description:
-      "A browser engine designed for applications including embedded use.",
-    tags: ["Rust", "Browser", "Servo"],
-  },
+  name: "Servo",
+  imageSrc: "https://avatars.githubusercontent.com/u/2566135?s=200&v=4",
+  projectLink: "https://github.com/servo/servo",
+  description:
+    "A browser engine designed for applications including embedded use.",
+  tags: ["Rust", "Browser", "Servo"],
+ },
   {
     name: "matplotlib",
     imageSrc: "https://avatars.githubusercontent.com/u/215947?s=200&v=4",
